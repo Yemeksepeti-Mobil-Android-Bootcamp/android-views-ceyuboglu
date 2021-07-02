@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="logo">Bella Logo</string>
+    <string name="foodforeveryone">Food for\nEveryone</string>
+    <string name="button_text">Get Started</string>
+    <string name="person">Person</string>
+    <string name="gradient">gradient color</string>
+</resources>
