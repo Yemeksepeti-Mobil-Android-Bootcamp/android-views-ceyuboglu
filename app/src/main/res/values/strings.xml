@@ -5,4 +5,13 @@
     <string name="button_text">Get Started</string>
     <string name="person">Person</string>
     <string name="gradient">gradient color</string>
+    <string name="checkout">Checkout</string>
+    <string name="mybasket">My Basket</string>
+    <string name="goback">Go Back</string>
+    <string name="product1"><b>Quinoa fruit salad</b>\n2packs</string>
+    <string name="price1">20,000</string>
+    <string name="product_description">Product Image</string>
+    <string name="total_cost">Total\n <b>60,000</b></string>
+
+
 </resources>
