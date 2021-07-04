@@ -8,10 +8,14 @@
     <string name="checkout">Checkout</string>
     <string name="mybasket">My Basket</string>
     <string name="goback">Go Back</string>
-    <string name="product1"><b>Quinoa fruit salad</b>\n2packs</string>
+    <string name="product1">Quinoa fruit salad</string>
+    <string name="product2">Melon fruit salad</string>
+    <string name="product3">Tropical fruit salad </string>
+    <string name="product_count">2packs</string>
     <string name="price1">20,000</string>
     <string name="product_description">Product Image</string>
-    <string name="total_cost">Total\n <b>60,000</b></string>
+    <string name="total">Total</string>
+    <string name="total_cost">60,000</string>
 
 
 </resources>
